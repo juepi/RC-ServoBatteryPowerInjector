@@ -10,8 +10,10 @@ Make sure to use an appropiate wire gauge, good high-torque servos for 1:10 mode
 
 ![Bottom side of the PCB](https://github.com/juepi/RC-ServoBatteryPowerInjector/blob/main/RC-SPI_Bottom1.png?raw=true)
 ![Servo Connector](https://github.com/juepi/RC-ServoBatteryPowerInjector/blob/main/RC-SPI_Conn1.png?raw=true)
+  
+**ATTENTION:** Make sure to connect your servo and RX in the right position and direction (see PWM marking above) to avoid damaging your RX and/or servo.  
 
-You have 2 more 2x1 connectors on the PCB which will allow you to connect - in example - a voltage sensing telemetry unit of your transmitter/receiver directly to the battery.
+You have 2 more 2x1 connectors on the PCB which will allow you to connect - in example - a voltage sensing telemetry unit of your transmitter/receiver directly to the battery voltage.
 
 have fun,  
 Juergen
